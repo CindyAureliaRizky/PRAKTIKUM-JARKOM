@@ -1,0 +1,9 @@
+(base) C:\Users\caure>cd C:\Python2
+
+(base) C:\Python2>python server.py
+Host: localhost
+Port: 2907
+New connection at ID 0 ('127.0.0.1', 64173)
+New connection at ID 1 ('127.0.0.1', 64189)
+ID 0: Hi! Whatcha u doin'?
+ID 1: Hi! I'm doing a task.
